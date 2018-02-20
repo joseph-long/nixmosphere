@@ -1,2 +1,4 @@
-results/
-result/
+result
+__pycache__
+*.swp
+*~
